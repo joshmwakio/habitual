@@ -1,0 +1,124 @@
+html{
+    box-sizing: border-box;
+}
+body {
+    color: #54575A;
+    background: linear-gradient(180deg, #FFFFFF 0%, #F3F8F7 49.91%, #FFF9F5 94.19%);
+}
+.container{
+    position: relative;
+    width: 1280px;
+    min-height: 100vh;
+    margin: auto;
+}
+.title-text{
+    position: absolute;
+    width: 458px;
+    height: 135px;
+    left: 221px;
+    top: 236px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 67px;
+}
+
+.description-text{
+    position: absolute;
+    width: 394px;
+    height: 96px;
+    left: 221px;
+    top: 410px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 32px;
+}
+.logo{
+    font-family: sans-serif;
+    position: absolute;
+    width: 193px;
+    height: 47.64px;
+    left: 221px;
+    top: 50.25px;
+}
+.apple-button{
+    position: absolute;
+    left: 221px;
+    top: 531px;
+}
+.apple-button img{
+    width: 138.44px;
+    height: 46.28px;
+}
+.play-button{
+    position: absolute;
+    left: 381.81px;
+    top: 531px;
+}
+.play-button img{
+    width: 156.19px;
+    height: 46.28px;
+}
+
+.profile-image{
+    position: absolute;
+    height: 444px;
+    left: 737px;
+    right: 479px;
+    top: 686px;
+    
+    filter: drop-shadow(0px 20px 40px rgba(0, 0, 0, 0.25));
+}
+.orders-image{
+    position: absolute;
+    height: 444px;
+    left: 479px;
+    right: 737px;
+    top: 913px;
+    filter: drop-shadow(0px 20px 40px rgba(0, 0, 0, 0.25));
+    
+}
+.product-image{
+    position: absolute;
+    height: 444px;
+    left: 737px;
+    right: 479px;
+    top: 1157px;
+    
+    filter: drop-shadow(0px 20px 40px rgba(0, 0, 0, 0.25));
+    
+}
+.cart-image{
+    position: absolute;
+    height: 444px;
+    left: 221px;
+    right: 995px;
+    top: 1158px;
+    filter: drop-shadow(0px 20px 40px rgba(0, 0, 0, 0.25));
+    
+}
+.home-image{
+    position: absolute;
+    height: 444px;
+    left: 995px;
+    right: 221px;
+    top: 908px;
+    
+    filter: drop-shadow(0px 20px 40px rgba(0, 0, 0, 0.25));
+}
+.main-image-container{
+    position: absolute;
+    width: 535.72px;
+    height: 309.27px;
+    left: 683.28px;
+    top: 229.73px;
+}
+.main-image-container img{
+
+    width: 535.72px;
+    height: 309.27px;
+  
+}
